@@ -3,5 +3,7 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="lib" path="D:/usr/workspace/eclipse/RealSenseCam/libpxcclr.java.jar"/>
+	<classpathentry kind="lib" path="D:/usr/workspace/eclipse/RealSenseCam/bin/lib/californium-core-1.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/usr/workspace/eclipse/RealSenseCam/bin/lib/element-connector-1.0.0-SNAPSHOT.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
